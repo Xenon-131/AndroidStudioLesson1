@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">control_lesson1</string>
+    <string name="new_word">Adding new word</string>
+    <string name="word">개</string>
+    <string name="translation">dog</string>
+    <string name="confirm">confirm</string>
+    <string name="notes">Click to add a note</string>
+</resources>
